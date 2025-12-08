@@ -1,10 +1,15 @@
 # Mark Kadiev
-Contact Info: [fill in]
+Contact Info: LinkedIn
 ### About Me 
-[Fill in Madlibs here]
+Hello! I am an experienced inventory manager and a sales professional with over 4 years of proven expertise in sales and marketing inquiries.
+
+With skills in leadership, ownership, responsibility, and social lifestyle I can help with pretty much anything and achieve sustainability within a corporation.
+
+My versatile skill set, commitment to employers, and passion for greatness makes me a valuable asset for your team. In my spare time, I like to be outside with my friends and/or family. 
+
 
 ### Education 
-[Fill in Education here]
+Canisius High School: Buffalo, NY (2020-2024)
 ***
 ### Projects
 
