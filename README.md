@@ -9,13 +9,13 @@ My versatile skill set, commitment to employers, and passion for greatness makes
 
 
 ### Education 
-Canisius High School: Buffalo, NY (2020-2024)
+For High School I attended Canisius High school located in Buffalo, NY and graduated in May of 2024. I am currently enrolled at Loyola University of Maryland and am studying Finance and Economics.
 ***
 ### Projects
 
 #### Project 1 Title
  - Project 1 Summary
- - [insert project 1 screenshot here]
+ - ![Project 1](/images/project_1.png)
  - Project 1 Report
 ***
 #### Project 2 Title
